@@ -1,0 +1,16 @@
+C:\Users\jauni\Documents\repos\Variables2\Variables2\bin\Debug\net5.0\Variables2.exe
+C:\Users\jauni\Documents\repos\Variables2\Variables2\bin\Debug\net5.0\Variables2.deps.json
+C:\Users\jauni\Documents\repos\Variables2\Variables2\bin\Debug\net5.0\Variables2.runtimeconfig.json
+C:\Users\jauni\Documents\repos\Variables2\Variables2\bin\Debug\net5.0\Variables2.runtimeconfig.dev.json
+C:\Users\jauni\Documents\repos\Variables2\Variables2\bin\Debug\net5.0\Variables2.dll
+C:\Users\jauni\Documents\repos\Variables2\Variables2\bin\Debug\net5.0\ref\Variables2.dll
+C:\Users\jauni\Documents\repos\Variables2\Variables2\bin\Debug\net5.0\Variables2.pdb
+C:\Users\jauni\Documents\repos\Variables2\Variables2\obj\Debug\net5.0\Variables2.csprojAssemblyReference.cache
+C:\Users\jauni\Documents\repos\Variables2\Variables2\obj\Debug\net5.0\Variables2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jauni\Documents\repos\Variables2\Variables2\obj\Debug\net5.0\Variables2.AssemblyInfoInputs.cache
+C:\Users\jauni\Documents\repos\Variables2\Variables2\obj\Debug\net5.0\Variables2.AssemblyInfo.cs
+C:\Users\jauni\Documents\repos\Variables2\Variables2\obj\Debug\net5.0\Variables2.csproj.CoreCompileInputs.cache
+C:\Users\jauni\Documents\repos\Variables2\Variables2\obj\Debug\net5.0\Variables2.dll
+C:\Users\jauni\Documents\repos\Variables2\Variables2\obj\Debug\net5.0\ref\Variables2.dll
+C:\Users\jauni\Documents\repos\Variables2\Variables2\obj\Debug\net5.0\Variables2.pdb
+C:\Users\jauni\Documents\repos\Variables2\Variables2\obj\Debug\net5.0\Variables2.genruntimeconfig.cache
